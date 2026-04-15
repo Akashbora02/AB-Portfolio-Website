@@ -15,43 +15,37 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>DevOps Engineer</h4>
+                <h5>Hisan Labs Pvt. Ltd.</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2025 - Present</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Designed and implemented end-to-end DevOps lifecycle for microservices-based applications handling production workloads on AWS and GCP. Built and optimized CI/CD pipelines using Jenkins, GitHub Actions, and GitLab. Implemented GitOps workflows using Argo CD.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Linux Client Support Engineer</h4>
+                <h5>Tradetron Tech Pvt. Ltd.</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2023 - 2024</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Managed and monitored Linux-based production servers (RHEL, CentOS, Ubuntu), ensuring high availability. Troubleshot system, network, and performance issues, reducing downtime. Automated routine tasks using shell scripting.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>DevOps Trainee</h4>
+                <h5>Hands-on Building</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>2024 - 2025</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Focused on transitioning into DevOps by building hands-on projects, such as Containerized Node.js Applications on AWS ECS Fargate, 2-Tier Flask Applications on EKS, and Serverless Python API deployments using Lambda.
             </p>
           </div>
         </div>
